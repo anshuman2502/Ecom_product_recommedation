@@ -1,7 +1,7 @@
 # Ecom_product_recommedation
  Product Recommendation System 🛒💡  
 
-Welcome to the **Product Recommendation System** GitHub repository! This project demonstrates the implementation of a robust recommendation system using Python and AI/ML technologies. It is inspired by cutting-edge advancements in artificial intelligence and machine learning, tailored to provide users with highly accurate and personalized product suggestions.
+Welcome to the **Product Recommendation System** GitHub repository! This project demonstrates the implementation of a robust recommendation system using Python and AI/ML technologies. It is inspired by cutting-edge advancements in artificial intelligence and machine learning, tailored to provide users with highly accurate and personalized product suggestions.It is uses RESNET ML model for better results
 
 
 
